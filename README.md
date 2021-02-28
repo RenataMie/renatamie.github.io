@@ -1,5 +1,9 @@
 ![](gifs/home.gif)
 
+
+
+![](gifs/menu.gif)
+
 ## Personal Website Portfolio
 
 Personal website where you can know more about myself and check projects developed by myself.
@@ -8,11 +12,16 @@ Personal website where you can know more about myself and check projects develop
 
 Here are the technologies used in this project:
 
-* HTML, CSS
-* NodeJS/ EXPRESS/ EJS 
+* HTML
+* CSS
+* NodeJS
+* EXPRESS
+* EJS 
 
 ## Features
--CSS animations
+-CSS animations:
+  * Title: typing effect;
+  * Menu: animated hamburguer;
 
 ## Links
 
