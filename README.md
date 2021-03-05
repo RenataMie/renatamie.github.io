@@ -6,7 +6,7 @@
 
 ## Personal Website Portfolio
 
-Personal website where you can know more about myself and check projects developed by myself.
+Personal website where you can know more about me and check projects developed by myself.
 
 ## Technology
 
